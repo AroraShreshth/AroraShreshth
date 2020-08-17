@@ -20,4 +20,4 @@ You can explore :mag: the projects I am working on publically and would be elate
 
 ### Toys I Play with :flashlight:
 
-Django | React | Node | Express | Flutter | React Native
+Django | React | Node | Express | Flutter | React Native | Vue
