@@ -11,12 +11,16 @@ This place :house: houses a lot of the software projects :telescope: I am intere
 
 You can explore :mag: the projects I am working on publically and would be elated on a contribution on them.
 
+<p ><img  src="https://github-readme-stats.vercel.app/api?username=AroraShreshth&show_icons=true" alt="AroraShreshth"  /></p>
+<br>
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroraShreshth&layout=compact&hide=html%22%20alt=%AroraShreshth" /></p>
+
 ### Languages I write in :pencil2:
 
 - Python :snake:
 - Javascipt :eyes:
 - C++ :smile:
-- Somtimes srible in Dart and Swift :loop:
+- Sometimes scrible in Dart and Swift :loop:
 
 ### Toys I Play with :flashlight:
 
