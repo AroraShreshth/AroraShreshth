@@ -16,7 +16,8 @@ You can explore :mag: the projects I am working on publically and would be elate
 - Python :snake:
 - JavaScript :eyes:
 - C++ :smile:
-- Sometimes sribble in Dart and Swift :loop:
+- Sometimes scrible in Dart and Swift :loop:
+
 
 ### Toys I Play with :flashlight:
 
