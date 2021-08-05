@@ -4,7 +4,7 @@
 [![MAIL Badge](https://img.shields.io/badge/-hey@shreshtharora.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@shreshtharora.com)](mailto:hey@shreshtharora.co)
 ![](https://komarev.com/ghpvc/?username=AroraShreshth&style=flat-square)
 
-A CS Undergard (III Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu) and Developer from India
+A CS Undergard (Final Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu) and Developer from India
 
 My Website is [ShreshthArora.com](https://shreshtharora.com)
 
