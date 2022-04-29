@@ -6,7 +6,6 @@
 
 A CS Undergard (Final Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu) and Developer from India
 
-My Website is [ShreshthArora.com](https://shreshtharora.com)
 
 This place :house: houses a lot of the software projects :telescope: I am interested in.
 
