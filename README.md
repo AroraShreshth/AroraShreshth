@@ -23,4 +23,4 @@ This is my digital sandbox 🎡. A repository of code, projects, and flashes of 
 
 ### Toys I Play with :flashlight:
 
-Django | React | Node | Express | Flutter | React Native | Vue
+Airflow | Clickhouse | Tigergraph | Django | React | Node | Express | Flutter | React Native | Vue
