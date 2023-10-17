@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=AroraShreshth&style=flat-square)
 
 
-Techie 👨🏻‍💻 on the hunt for the his 'Eureka!' moment. Alum of [Thapar Institute](https://thapar.edu)  with a toolbox as diverse as my Spotify playlists. Spent the recent years honing skills in data engineering at [Merkle Science](https://merklescience.com) and product+backend magic at [Qoohoo](https://qoohoo.in)
+Techie 👨🏻‍💻 on the hunt for his 'Eureka!' moment. Alum of [Thapar Institute](https://thapar.edu)  with a toolbox as diverse as my Spotify playlists. Spent the recent years honing skills in data engineering at [Merkle Science](https://merklescience.com) and product+backend magic at [Qoohoo](https://qoohoo.in)
 
 
 This place :house: houses a lot of the software projects :telescope: I am interested in.
