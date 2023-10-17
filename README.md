@@ -4,19 +4,22 @@
 [![MAIL Badge](https://img.shields.io/badge/-hey@shreshtharora.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@shreshtharora.com)](mailto:hey@shreshtharora.co)
 ![](https://komarev.com/ghpvc/?username=AroraShreshth&style=flat-square)
 
-A CS Undergard (Final Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu) and Developer from India
+
+Techie 👨🏻‍💻 on the hunt for the his 'Eureka!' moment. Alum of [Thapar Institute](https://thapar.edu)  with a toolbox as diverse as my Spotify playlists. Spent the recent years honing skills in data engineering at [Merkle Science](merklescience.com) and product and backend magic at [Qoohoo](qoohoo.in)
 
 
 This place :house: houses a lot of the software projects :telescope: I am interested in.
 
-You can explore :mag: the projects I am working on publically and would be elated on a contribution on them.
+## What's This Space? 🏠
 
-### Languages I write in :pencil2:
+This is my digital sandbox 🎡. A repository of code, projects, and flashes of brilliance. Contributions? Highly welcomed. Critique? Bring it on!
+
+### Languages I generally write in :pencil2:
 
 - Python :snake:
 - Javascipt :eyes:
 - C++ :smile:
-- Sometimes scrible in Dart and Swift :loop:
+- Sometimes scrible in Dart and Swift :loop: m Exploring Go and Rust currently
 
 ### Toys I Play with :flashlight:
 
