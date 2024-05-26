@@ -5,22 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=AroraShreshth&style=flat-square)
 
 
-Techie 👨🏻‍💻 on the hunt for his 'Eureka!' moment. Alum of [Thapar Institute](https://thapar.edu)  with a toolbox as diverse as my Spotify playlists. Spent the recent years honing skills in data engineering at [Merkle Science](https://merklescience.com) and product+backend magic at [Qoohoo](https://qoohoo.in)
+💡 Founder of [Vexio](https://vexio.in) | 🚀 Tech Enthusiast & Innovator
 
+🌱 Exploring cutting-edge tech | 🏆 Hackathon veteran & creative problem solver
 
-This place :house: houses a lot of the software projects :telescope: I am interested in.
-
-## What's This Space? 🏠
-
-This is my digital sandbox 🎡. A repository of code, projects, and flashes of brilliance. Contributions? Highly welcomed. Critique? Bring it on!
-
-### Languages I generally write in :pencil2:
-
-- Python :snake:
-- Javascipt :eyes:
-- C++ :smile:
-- Sometimes scrible in Dart and Swift :loop: m Exploring Go and Rust currently
-
-### Toys I Play with :flashlight:
-
-Airflow | Clickhouse | Tigergraph | Django | React | Node | Express | Flutter | React Native | Vue
+🔗 Connect for collaborations in software ( all domains ) at hey@shreshtharora.com | 
